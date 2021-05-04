@@ -1,0 +1,3 @@
+[
+    { "caption": "Duplicate the current line by adding a copy below it", "command": "duplicate_file_below" },
+]
